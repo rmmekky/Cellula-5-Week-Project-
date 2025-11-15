@@ -1,0 +1,10 @@
+transformers
+huggingface-hub
+sentence-transformers
+faiss-cpu
+scikit-learn
+langgraph
+streamlit
+python-pptx
+numpy
+requests
