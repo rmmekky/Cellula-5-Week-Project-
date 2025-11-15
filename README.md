@@ -1,5 +1,5 @@
 # Cellula-5-Week-Project-
-# 🤖 LangGraph Powered Python Code Assistant  
+#  LangGraph Powered Python Code Assistant  
 A smart, modular, and production-ready Python assistant built using **LangGraph**, **RAG**, **LLMs**, and **Vector Databases**, with full deployment and presentation.
 
 ---
